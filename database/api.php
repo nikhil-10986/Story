@@ -58,5 +58,5 @@ function getStory($data) {
         }
         echo json_encode(['status' => true, 'data' => $story->row]);
     } else echo json_encode(['status' => false]);
-}
+} 
 ?>

@@ -33,8 +33,7 @@ if(isset($_GET['logout'])) unset($_SESSION['author_id']); ?>
 	</head>
 	<body>
 		
-	<div class="fh5co-loader"></div>
-	
+	<div class="fh5co-loader"></div>	
 	<div id="page" ng-controller="Login" ng-init="init(<?= (isset($_SESSION['author_id']) ? $_SESSION['author_id'] : 0) ?>)">
 		<div id="fh5co-aside" style="background-image: url(images/image_1.jpg)">
 			<div class="overlay"></div>

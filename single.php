@@ -32,8 +32,7 @@
 	</head>
 	<body class="single" ng-controller="single" ng-init="init(<?= (isset($_GET['id']) ? $_GET['id'] : 0) ?>)">
 		
-	<div class="fh5co-loader"></div>
-	
+	<div class="fh5co-loader"></div>	
 	<div id="page">
 		<div id="fh5co-aside" style="background-image: url(images/image_2.jpg);height:400px !important" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>

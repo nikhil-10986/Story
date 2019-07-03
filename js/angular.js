@@ -167,4 +167,4 @@ openModal = function (uib,scope,template,ctrl,backdrop,keyboard,size,data) {
 };
 getURL = function() {
     return "http://localhost:9000/database/api.php";
-}
+} 

@@ -49,7 +49,6 @@
 					<a class="pull-right" href="login.php">Login</a>
 				<?php } ?>
 			</nav>
-
 			<div class="featured">
 				<span>Biz2Credit Stories</span>
 				<h2>Read the latest stories of your interest from best of the authors.</h2>
