@@ -9,7 +9,7 @@
 	<meta name="description" content="Biz2Credit Code Challenge" />
 	<meta name="keywords" content="Biz2Credit Code Challenge" />
 	<meta name="author" content="Nikhil Gupta" />
-
+	<base href="http://localhost:9000/" />
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
 	
 	<!-- Animate.css -->

@@ -1,0 +1,23 @@
+{
+  "name": "story",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "php -S 127.0.0.1:9000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-10986/Story.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhil-10986/Story/issues"
+  },
+  "homepage": "https://github.com/nikhil-10986/Story#readme",
+  "dependencies": {
+    "liveserver": "^0.1.20"
+  }
+}

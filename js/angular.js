@@ -166,5 +166,5 @@ openModal = function (uib,scope,template,ctrl,backdrop,keyboard,size,data) {
     });
 };
 getURL = function() {
-    return "http://localhost/Biz2Credit/database/api.php";
+    return "http://localhost:9000/database/api.php";
 }
